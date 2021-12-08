@@ -1,1 +1,5 @@
-﻿
+﻿{
+    "AppID": "appidhere",
+    "TenantID": "teanantidhere",
+    "ClientSecret": "clientsecrethere"
+}
